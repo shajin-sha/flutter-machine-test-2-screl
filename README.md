@@ -31,5 +31,5 @@ API : https://jsonplaceholder.typicode.com/users
 
 
 For a visual reference, please refer to the provided prototype of the user interface.
-![Group 4](https://github.com/shajin-sha/flutter-machine-test-screl/assets/86142635/c8f18367-db68-40f3-aa0a-16a82c34d8c7)
 
+prototype :  https://github.com/shajin-sha/flutter-machine-test-screl/blob/main/Group%204.png?raw=true
